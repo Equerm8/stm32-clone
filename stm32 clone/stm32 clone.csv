@@ -8,20 +8,20 @@ PRAWDA,"C9,C11,C12",3,10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSo
 PRAWDA,C13,1,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
 PRAWDA,D1,1,1N5819,Diode_THT:D_DO-15_P12.70mm_Horizontal,https://www.tme.eu/pl/details/1n5819-dio/diody-schottky-tht/diotec-semiconductor/1n5819/
 PRAWDA,D2,1,1N5908,Diode_THT:D_DO-201AE_P15.24mm_Horizontal,https://www.tme.eu/pl/details/1n5908/diody-tvs-tht-jednokierunkowe/stmicroelectronics/
-FA£SZ,D3,1,LED_PWR,LED_THT:LED_D5.0mm,
-FA£SZ,D4,1,LED,LED_THT:LED_D5.0mm,
+PRAWDA,D3,1,LED_PWR,LED_THT:LED_D5.0mm,
+PRAWDA,D4,1,LED,LED_THT:LED_D5.0mm,
 PRAWDA,J1,1,DEBUG,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,
-FA£SZ,J2,1,USB_C_Receptacle_USB2.0_16P,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,
-FA£SZ,J3,1,PA-PC-PB-Conn,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
-FA£SZ,J5,1,PB-PD-Conn,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical,
-FA£SZ,J6,1,PA-Conn,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
-FA£SZ,J7,1,PA-PB-Conn,Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical,
-FA£SZ,"R1,R2",2,5k1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
-FA£SZ,"R3,R4,R5",3,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
-FA£SZ,R6,1,10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
-FA£SZ,SW1,1,RST,Button_Switch_THT:SW_PUSH_6mm_2pin,
-FA£SZ,SW2,1,USR_BTN,Button_Switch_THT:SW_PUSH_6mm_2pin,
-FA£SZ,U1,1,STM32G030C6T6,Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.tme.eu/pl/details/stm32g030c6t6/mikrokontrolery-st/stmicroelectronics/
-FA£SZ,U2,1,TPS1117LV33S,Package_TO_SOT_SMD:SOT-223-3_TabPin2,TPS1117LV33S
-FA£SZ,Y1,1,8 MHz,Crystal:Crystal_HC49-4H_Vertical,https://botland.com.pl/rezonatory/167-rezonator-kwarcowy-8mhz-hc49-niski-10szt-5904422355418.html
-FA£SZ,Y2,1,32.768 KHz,Crystal:Crystal_C38-LF_D3.0mm_L8.0mm_Vertical,https://www.piekarz.pl/09670-rezonator-kwarcowy-32-768khz-fi-3x8mm/
+PRAWDA,J2,1,USB_C_Receptacle_USB2.0_16P,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,
+PRAWDA,J3,1,PA-PC-PB-Conn,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
+PRAWDA,J5,1,PB-PD-Conn,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical,
+PRAWDA,J6,1,PA-Conn,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+PRAWDA,J7,1,PA-PB-Conn,Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical,
+PRAWDA,"R1,R2",2,5k1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+PRAWDA,"R3,R4,R5",3,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+PRAWDA,R6,1,10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+PRAWDA,SW1,1,RST,Button_Switch_THT:SW_PUSH_6mm_2pin,
+PRAWDA,SW2,1,USR_BTN,Button_Switch_THT:SW_PUSH_6mm_2pin,
+PRAWDA,U1,1,STM32G030C6T6,Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.tme.eu/pl/details/stm32g030c6t6/mikrokontrolery-st/stmicroelectronics/
+PRAWDA,U2,1,TPS1117LV33S,Package_TO_SOT_SMD:SOT-223-3_TabPin2,TPS1117LV33S
+PRAWDA,Y1,1,8 MHz,Crystal:Crystal_HC49-4H_Vertical,https://botland.com.pl/rezonatory/167-rezonator-kwarcowy-8mhz-hc49-niski-10szt-5904422355418.html
+PRAWDA,Y2,1,32.768 KHz,Crystal:Crystal_C38-LF_D3.0mm_L8.0mm_Vertical,https://www.piekarz.pl/09670-rezonator-kwarcowy-32-768khz-fi-3x8mm/
